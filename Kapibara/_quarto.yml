@@ -2,6 +2,10 @@ project:
   type: book
 
 book:
+  sidebar:
+    logo: assets/favicon-red.svg
+  favicon: assets/favicon-red.svg
+  
   title: "Kapibara-Project"
   chapters:
     - part: "Moduły:"
