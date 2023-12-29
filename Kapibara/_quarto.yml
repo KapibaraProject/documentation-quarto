@@ -10,7 +10,7 @@ book:
   - "Piotr Jankowski"
   date: "27.12.2023"
   chapters:
-    - index.qmd
+    - index.md
     - intro.qmd
     - summary.qmd
     - references.qmd
