@@ -6,10 +6,3 @@ Nasze rozwiązanie powinno uprościć wewnętrzne procedury związane z organiza
 
 Z naszego systemu będą korzystać m.in. szeregowi pracownicy, serwisanci, partnerzy handlowi oraz kierownictwo i pracownicy zarządu. Każda grupa użytkowników będzie miała nadane odpowiednie uprawnienia.
 
-
-# Stack technologiczny
-- Docker​
-- PHP Symfony​
-- PostgreSQL​
-- React & JS​
-- React Native

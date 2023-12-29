@@ -7,7 +7,6 @@ book:
     - part: "Moduły:"
     - part: "­ "
     - index.md
-    - docs/features.md
     - text: "---"
     - summary.qmd
     - text: "---"
