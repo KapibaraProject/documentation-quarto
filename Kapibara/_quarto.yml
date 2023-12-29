@@ -3,7 +3,11 @@ project:
 
 book:
   title: "Kapibara"
-  author: "Norah Jones"
+  author: 
+  - "Mateusz Michalik"
+  - "Jakub Liczbiński"
+  - "Dariusz Karpiński"
+  - "Piotr Jankowski"
   date: "27.12.2023"
   chapters:
     - index.qmd
@@ -18,6 +22,3 @@ format:
     theme: cosmo
   pdf:
     documentclass: scrreprt
-
-
-
