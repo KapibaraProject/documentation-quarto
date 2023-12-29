@@ -1,0 +1,20 @@
+# docker network create kapi --subnet 172.50.0.0/16
+
+version: "3"
+
+services:
+  kapibara-quarto:
+    image: kapibara-quarto
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: kapibara-quarto
+    ports:
+      - 10000:80
+    networks:
+      kapi:
+        ipv4_address: 172.50.0.3
+    restart: unless-stopped
+networks: 
+  kapi:
+    external: true
