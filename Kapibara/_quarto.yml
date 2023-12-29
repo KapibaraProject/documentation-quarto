@@ -19,6 +19,8 @@ bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
-  pdf:
-    documentclass: scrreprt
+    toc-title: "Rozdziały w tym module:"
+    smooth-scroll: true
+    theme:
+      light: flatly
+      dark: darkly
