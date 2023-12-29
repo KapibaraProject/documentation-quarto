@@ -2,20 +2,15 @@ project:
   type: book
 
 book:
-  title: "Kapibara"
-  author: 
-  - "Mateusz Michalik"
-  - "Jakub Liczbiński"
-  - "Dariusz Karpiński"
-  - "Piotr Jankowski"
-  date: "27.12.2023"
+  title: "Kapibara-Project"
   chapters:
+    - part: "Moduły:"
+    - part: "­ "
     - index.md
-    - intro.qmd
+    - text: "---"
     - summary.qmd
-    - references.qmd
-
-bibliography: references.bib
+    - text: "---"
+    - docs/authors.md
 
 format:
   html:
