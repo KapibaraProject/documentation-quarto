@@ -13,6 +13,7 @@ book:
     - index.md
     - docs/features.md
     - text: "---"
+    - docs/basics.md
     - docs/projects.md
     - text: "---"
     - docs/authors.md
