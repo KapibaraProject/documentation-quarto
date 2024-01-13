@@ -1,10 +1,10 @@
 # Projekty
 
-### Widok strony 'Projekty':
+## Widok strony 'Projekty':
 
 ![](image/devices/1703869964757.png)
 
-### Opis:
+## Opis:
 
 Strona zawiera tabelę z listą projektów, a nad nią po prawej stronie widoczny jest przycisk 'Dodaj nowy projekt'.
 
