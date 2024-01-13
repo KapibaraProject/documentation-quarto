@@ -15,6 +15,7 @@ book:
     - text: "---"
     - docs/basics.md
     - docs/projects.md
+    - docs/tasks.md
     - docs/kanban.md
     - text: "---"
     - docs/authors.md
